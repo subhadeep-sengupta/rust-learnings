@@ -1,0 +1,27 @@
+[submodule "rtcp-ip"]
+	path = rtcp-ip
+	url = https://github.com/subhadeep-sengupta/rtcp-ip
+[submodule "zero2prod"]
+	path = zero2prod
+	url = https://github.com/subhadeep-sengupta/zero2prod
+[submodule "iterators"]
+	path = iterators
+	url = https://github.com/subhadeep-sengupta/iterators
+[submodule "vector-macro"]
+	path = vector-macro
+	url = https://github.com/subhadeep-sengupta/vector-macro
+[submodule "string-split"]
+	path = string-split
+	url = https://github.com/subhadeep-sengupta/string-split/
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/subhadeep-sengupta/rustlings
+[submodule "rustserver"]
+	path = rustserver
+	url = https://github.com/subhadeep-sengupta/rustserver
+[submodule "tinysearch"]
+	path = tinysearch
+	url = https://github.com/subhadeep-sengupta/tinysearch
+[submodule "guess-the-number"]
+	path = guess-the-number
+	url = https://github.com/subhadeep-sengupta/guess-the-number
